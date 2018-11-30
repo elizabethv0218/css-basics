@@ -68,3 +68,10 @@ code {
 .container a:active {
     color: blue;
 }
+
+#ty {
+    text-align: right;
+    font-weight: bold;
+    font-style: italic;
+    color: red;
+}
